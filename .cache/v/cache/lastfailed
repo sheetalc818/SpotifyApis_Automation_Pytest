@@ -1,0 +1,4 @@
+{
+  "Spotify/test_spotify_api.py::TestClass::()::test_get_current_user_check_status_code_equals_200": true, 
+  "Spotify/test_spotify_api.py::TestClass::()::test_get_current_user_playlist_check_status_code_equals_200": true
+}
